@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Raj Shakya</h1>
 <h3 align="center">Hey there, I'm a B.Tech student at Cluster Innovation Centre, Delhi University, majoring in Information Technology & Mathematical Innovation. Passionate about tech, math, and innovation, I enjoy solving complex problems and bringing ideas to life. Always curious, always growing—let’s connect and create something amazing! 🚀</h3>
 
+<img align="right" alt="coding" width="400" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=6c09b952tr0vrm7lgl0mnevdz4clf7r0emze6n9lgb4ibivc&ep=v1_gifs_search&rid=giphy.gif&ct=g">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajshakya0101&label=Profile%20views&color=0e75b6&style=flat" alt="rajshakya0101" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rajshakya0101" alt="rajshakya0101" /></a> </p>
