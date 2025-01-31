@@ -1,3 +1,4 @@
+![logo](https://github.com/Rajshakya0101/Rajshakya0101/blob/main/development.jpg)
 <h1 align="center">Hi 👋, I'm Raj Shakya</h1>
 <h3 align="center">Hey there! I'm a B.Tech student at Cluster Innovation Centre, Delhi University, majoring in Information Technology & Mathematical Innovation. Passionate about tech, math, and innovation, I enjoy solving complex problems and bringing ideas to life. Always curious, always growing—let’s connect and create something amazing! 🚀</h3>
 
